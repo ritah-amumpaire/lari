@@ -1,0 +1,6 @@
+cd desktop
+git clone "copy resp link and paste"
+git status
+git add .
+git commit -m""
+git push -u origin main 
